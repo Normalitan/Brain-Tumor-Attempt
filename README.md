@@ -29,10 +29,10 @@ Understanding these factors is crucial for improving a hypothetical brain scan c
 - Tested the final model by making predictions on unseen input data.  
 
 ## Results  
-The final model demonstrated overfitting performance metrics, indicating moderate effectiveness in locating patterns of tumors. 
+The final model demonstrated overfitting performance metrics, indicating moderate effectiveness locating tumors. 
 
 ## Conclusion  
-Regression is moderately successful at finding patterns from image value data, but better approaches are necessary to get better accuracy scores.
+Regression is moderately successful at finding patterns from image value data, but better approaches must be explored and properly configured to get less error scores.
 
 ## How to Run the Notebook  
 1. Clone the repository: `git clone [repository_url]`  
@@ -49,6 +49,6 @@ Regression is moderately successful at finding patterns from image value data, b
 - Jupyter Notebook  
 
 ## Acknowledgements  
-This project is based on an altered data set thanks to the following:
+This project is based on an altered data set thanks to the following individial:
 https://www.kaggle.com/datasets/gonzalorecioc/brain-tumor-images-with-tumor-location-coordinates/data
 --- 
