@@ -8,14 +8,14 @@ The dataset contains two dataframes: image_df with 2500 brain scan images, and d
 Understanding these factors is crucial for improving a hypothetical brain scan classifier and accurately identifying tumor locations which I attempt to do.
 
 ## Project Structure  
-- **README.md**: This file, providing an overview of the project.  
+- **README.md**: This file, providing overview of the project.  
 - **ImagePredictionCapstone.ipynb**: The Jupyter Notebook containing my full analysis and modeling process.  
 
 ## Analysis and Modeling  
 ### Exploratory Data Analysis (EDA):  
 - Examined the dataset to understand its structure.  
-- Tested image overlay and took random images to perform  
-- Hyperparameter tuninh
+- Tested image overlay and took random images to perform.  
+- Hyperparameter tuning.
 - Functions to take image, pedict, and confirm location of tumor.
 
 ### Data Cleaning and Preparation:  
