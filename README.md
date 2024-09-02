@@ -49,6 +49,6 @@ Regression is moderately successful at finding patterns from image value data, b
 - Jupyter Notebook  
 
 ## Acknowledgements  
-This project is based on an altered data set thanks to the following individial:
+###This project is based on an altered data set thanks to the following individial:
 https://www.kaggle.com/datasets/gonzalorecioc/brain-tumor-images-with-tumor-location-coordinates/data
 --- 
