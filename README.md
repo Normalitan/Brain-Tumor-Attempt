@@ -1,6 +1,6 @@
 # Predicting and locating brain tumors using Regression
 
-# NOTE: IMAGE_DF TOO LARGE: DOWNLOAD HERE: https://www.kaggle.com/datasets/gonzalorecioc/brain-tumor-images-with-tumor-location-coordinates/data?select=image_df.csv
+### NOTE: IMAGE_DF TOO LARGE: DOWNLOAD HERE: https://www.kaggle.com/datasets/gonzalorecioc/brain-tumor-images-with-tumor-location-coordinates/data?select=image_df.csv
 
 ## Introduction  
 This project involves building a predictive model to recognize and locate brain tumors in scans. 
